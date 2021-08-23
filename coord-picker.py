@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import pyautogui as pag
 
 while True:
